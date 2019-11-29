@@ -13,5 +13,5 @@
 - 直接内存
 
 ### Demo:
-OutOfMemoryError异常
-StackOverflowError异常
+* OutOfMemoryError异常
+* StackOverflowError异常
